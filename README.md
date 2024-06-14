@@ -14,7 +14,16 @@ This assignment aims to familiarize you with the tools and configurations necess
    
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
-   - My operating system is Windows 10, I could not use Windows 11 since my PC did not meet the requirements.
+   - My operating system is Windows 10.
+   - First, I checked that my laptop met the system requirements.
+   - I downloaded the Media Creation Tool from Microsoft and used it to create a bootable USB drive with the Windows 10 installation files. 
+   - Before getting started, I made sure to back up all my important documents, photos, music and other files to an external hard drive, just in case.
+   - Then I restarted my laptop and booted from the USB drive. I had to go into the BIOS and change the boot order to make that work. 
+   - The Windows 10 setup screen came up and I selected my preferences like my language and region.
+   - The setup requested for a product key which I used one of the product keys available on Google.
+   - Then I just had to click through and accept the license terms.
+   - The actual installation process took a little while - probably 45 minutes or so. It restarted a few times automatically. I just had to wait patiently and not interrupt it.
+   - I installed all the latest Windows updates, along with drivers for my hardware like graphics, networking, etc. That helped get everything working smoothly.
 
    ![alt text](<Screenshot (16).png>)
    --------------------
